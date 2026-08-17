@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Private/raw banking data
+data/dataset/
+*.pdf
+*.xls
+*.xlsx
+
+# Generated datasets/results
+data/processed/
+outputs/
